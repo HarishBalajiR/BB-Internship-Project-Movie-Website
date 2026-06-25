@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MovieHub - Tamil Movies & Shows</title>
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <div class="header-container">
+      <h1 class="logo">MovieHub</h1>
+
+      <nav id="main-nav">
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#movies">Movies</a></li>
+          <li><a href="#about">About</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section id="home" class="hero">
+    <h2>Find Your Next Favorite Tamil Movie</h2>
+    <p>
+      Browse a small collection of recent Tamil movies and shows below.
+      Click on any poster to see its rating, genre, director, and cast.
+    </p>
+    <a href="#movies" class="btn-primary">Browse Movies</a>
+  </section>
+
+  <main>
+    <section id="movies" class="movies-section">
+      <h2 class="section-title">Trending Tamil Movies & Shows</h2>
+      <p class="section-subtitle">Click on any card below to see more details.</p>
+
+      <div class="search-bar">
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Search by movie title..."
+        />
+      </div>
+
+      <div id="movie-grid" class="movie-grid">
+      </div>
+
+      <p id="no-results" class="no-results" style="display: none;">
+        No movies match your search.
+      </p>
+    </section>
+
+    <section id="about" class="about-section">
+      <h2 class="section-title">About This Project</h2>
+      <p>
+        This Movie Showcase page was built as part of a web development
+        internship project, using real recent Tamil movies as sample data.
+        It demonstrates a responsive card layout, a modal popup for
+        detailed views, and rendering data from a JavaScript array
+        instead of typing out repeated HTML by hand.
+      </p>
+    </section>
+  </main>
+
+  <div id="movie-modal" class="modal-overlay">
+    <div class="modal-box">
+      <button id="close-modal" class="close-btn" aria-label="Close">&times;</button>
+
+      <img id="modal-poster" src="" alt="Movie poster" class="modal-poster" />
+
+      <div class="modal-info">
+        <h2 id="modal-title"></h2>
+        <p id="modal-meta" class="modal-meta"></p>
+        <p id="modal-crew" class="modal-crew"></p>
+
+        <div id="modal-genres" class="genre-tags"></div>
+
+        <p id="modal-rating" class="modal-rating"></p>
+
+        <p id="modal-description"></p>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2026 MovieHub | Created by Harish Balaji R, Gokul Ram and Sanjay for our Internship Project at Big Bucks Innovation Private Limited</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
