@@ -7,7 +7,7 @@ const movies = [
     rating: 10,
     director: "Lokesh Kanagaraj",
     cast: "Rajinikanth, Nagarjuna Akkineni, Shruti Haasan",
-    poster: "https://picsum.photos/seed/coolie2025/300/450",
+    poster: "https://www.primevideo.com/detail/0NW5YC00YCE9TB4OZSAAJA3ZBU",
     description:
       "A retired labor-union leader investigates the mysterious death of an old friend, a trail that pulls him straight into a powerful smuggling syndicate.",
   },
@@ -19,7 +19,7 @@ const movies = [
     rating: 10,
     director: "RJ Balaji",
     cast: "Suriya, Trisha Krishnan",
-    poster: "https://picsum.photos/seed/karuppu2026/300/450",
+    poster: "https://www.jpcineplex.com/movies/karuppu",
     description:
       "A guardian deity takes the disguise of a small-town lawyer to take on a corrupt court system that preys on the powerless.",
   },
@@ -31,7 +31,7 @@ const movies = [
     rating: 10,
     director: "Adhik Ravichandran",
     cast: "Ajith Kumar, Trisha Krishnan",
-    poster: "https://picsum.photos/seed/goodbadugly2025/300/450",
+    poster: "https://www.imdb.com/title/tt27540217/",
     description:
       "A retired gangster who promised his son a peaceful life is dragged back into his old world after that son lands in serious trouble.",
   },
