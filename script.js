@@ -7,7 +7,7 @@ const movies = [
     rating: 10,
     director: "Lokesh Kanagaraj",
     cast: "Rajinikanth, Nagarjuna Akkineni, Shruti Haasan",
-    poster: "https://picsum.photos/seed/coolie2025/300/450",
+    poster: "https://m.media-amazon.com/images/S/pv-target-images/dec7049c59e766dc58c8cb6c1984c4523be5ec4bbdaf4e3a544dfda87b98e13e.jpg",
     description:
       "A retired labor-union leader investigates the mysterious death of an old friend, a trail that pulls him straight into a powerful smuggling syndicate.",
   },
@@ -19,7 +19,7 @@ const movies = [
     rating: 10,
     director: "RJ Balaji",
     cast: "Suriya, Trisha Krishnan",
-    poster: "https://picsum.photos/seed/karuppu2026/300/450",
+    poster: "https://jp-cineplex.s3.amazonaws.com/images/1778427294094_mv5bnge3nmy3n2itytyyyi00mmnmlthhmdutywyxyjgxyjhjzdu5xkeyxkfqcgc_v1_.jpg",
     description:
       "A guardian deity takes the disguise of a small-town lawyer to take on a corrupt court system that preys on the powerless.",
   },
@@ -31,7 +31,7 @@ const movies = [
     rating: 10,
     director: "Adhik Ravichandran",
     cast: "Ajith Kumar, Trisha Krishnan",
-    poster: "https://picsum.photos/seed/goodbadugly2025/300/450",
+    poster: "https://m.media-amazon.com/images/M/MV5BZTViMDEwZjgtMjEzZS00YWQ1LWI0ODctMWIzNTE4Y2Y5Y2Y2XkEyXkFqcGc@._V1_.jpg",
     description:
       "A retired gangster who promised his son a peaceful life is dragged back into his old world after that son lands in serious trouble.",
   },
@@ -43,7 +43,7 @@ const movies = [
     rating: 10,
     director: "Sudha Kongara",
     cast: "Sivakarthikeyan, Ravi Mohan, Atharvaa Murali",
-    poster: "https://picsum.photos/seed/parasakthi2026/300/450",
+    poster: "https://i.scdn.co/image/ab67616d0000b27373d6fb7b7cb2a1ec0a3c2e6e",
     description:
       "Inspired by real events, three friends get swept into the 1965 anti-Hindi imposition protests that shook Tamil Nadu.",
   },
@@ -55,7 +55,7 @@ const movies = [
     rating: 10,
     director: "Sivakumar Murugesan",
     cast: "Radhika Sarathkumar, Aruldoss",
-    poster: "https://picsum.photos/seed/thaaikizhavi2026/300/450",
+    poster: "https://m.media-amazon.com/images/M/MV5BNWEwZTZjOWYtMWVhYi00ZjljLWFhYTItNzZhMWI4YzlmZGIxXkEyXkFqcGc@._V1_.jpg",
     description:
       "A tough, unyielding elderly moneylender in a small village is forced to face the consequences of decades of strict, fearsome dealings.",
   },
@@ -67,7 +67,7 @@ const movies = [
     rating: 10,
     director: "Vignesh Raja",
     cast: "Dhanush, Mamitha Baiju",
-    poster: "https://picsum.photos/seed/kara2026/300/450",
+    poster: "https://resizing.flixster.com/pLvKdFBMznRA7Qm9WRAKyiRhgEE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiNGVjODg4LTA2YzYtNDA2NC05M2FhLWI3YTUxZDg3NDNiMi5qcGc=",
     description:
       "Set in rural India in the 1990s, a reformed thief is pulled back into crime after a predatory bank seizes his family's land.",
   },
@@ -79,7 +79,7 @@ const movies = [
     rating: 10,
     director: "Mani Ratnam",
     cast: "Kamal Haasan, Silambarasan TR, Trisha Krishnan",
-    poster: "https://picsum.photos/seed/thuglife2025/300/450",
+    poster: "https://m.media-amazon.com/images/M/MV5BNWFjOTQxODMtZDg2Yy00M2VkLWFiNzktMzRiY2I0ZmE2YmU1XkEyXkFqcGc@._V1_.jpg",
     description:
       "An aging mafia kingpin seeks redemption and revenge after being betrayed by the very brother and protege he once trusted.",
   },
@@ -91,7 +91,7 @@ const movies = [
     rating: 10,
     director: "H. Vinoth",
     cast: "Vijay, Pooja Hegde, Bobby Deol",
-    poster: "https://picsum.photos/seed/jananayagan2026/300/450",
+    poster: "https://m.media-amazon.com/images/M/MV5BOTE1M2ZkZjYtNzExNi00MTQwLTg3ZDYtYTA3YmQyMDgyZjU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     description:
       "A clash between two ideological rivals, one fighting for ordinary people and the other clinging to power, resurfaces years later.",
   },
